@@ -16,11 +16,11 @@ weather, system info, task management, and ASCII art animations.
 
 ### Screenshots
 
-* **ASCII Donut**
-  ![donut](public/donut.png)
-
 * **adrShell Interface**
   ![shell screenshot](public/shellss.png)
+
+* **ASCII Donut**
+  ![donut](public/donut.png)
 
 * **Weather in a City**
   ![weather](public/weathercity.png)
