@@ -1,5 +1,5 @@
 
-### adrShell v1.0
+## adrShell v1.0
 
 A lightweight **custom command shell for Windows**, built in C++.
 It provides an interface with shortcuts for everyday commands like
@@ -7,21 +7,33 @@ weather, system info, task management, and ASCII art animations.
 
 ---
 
-#### 📦 Requirements
+### Requirements
 - Windows OS
 - MinGW or MSVC (C++ compiler)
 - `curl` installed (for weather + donut)
 
 ---
 
-#### 🔨 Build Instructions
+### Screenshots
+
+* **ASCII Donut**
+  ![donut](public/donut.png)
+
+* **adrShell Interface**
+  ![shell screenshot](public/shellss.png)
+
+* **Weather in a City**
+  ![weather](public/weathercity.png)
+---
+
+### Build Instructions
 ```bash
 g++ src/adrShell.cpp -o adrShell.exe
 ````
 
 ---
 
-#### ⚙️ Installation
+### Installation
 
 1. Put the compiled `.exe` file inside:
 
@@ -48,20 +60,7 @@ g++ src/adrShell.cpp -o adrShell.exe
 
 ---
 
-#### Screenshots
-
-* **ASCII Donut**
-  ![donut](public/donut.png)
-
-* **adrShell Interface**
-  ![shell screenshot](public/shellss.png)
-
-* **Weather in a City**
-  ![weather](public/weathercity.png)
-
----
-
-#### Notes
+### Notes
 
 * Type `help` in adrShell to see available commands.
 * You can also run **regular CMD commands** directly.
