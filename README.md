@@ -55,7 +55,7 @@ g++ src/shell.cpp -o shell.exe
    Example:
 
    ```bash
-   adrShell
+   adr
    ```
 
 ---
