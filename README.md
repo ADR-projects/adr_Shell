@@ -28,7 +28,7 @@ weather, system info, task management, and ASCII art animations.
 
 ### Build Instructions
 ```bash
-g++ src/adrShell.cpp -o adrShell.exe
+g++ src/shell.cpp -o shell.exe
 ````
 
 ---
