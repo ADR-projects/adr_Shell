@@ -1,7 +1,7 @@
 
 ## adrShell v1.0
 
-A lightweight **custom command shell for Windows**, built in C++.
+A lightweight **custom CLI wrapper for Windows**, built in C++.
 It provides an interface with shortcuts for everyday commands like
 weather, system info, task management, and ASCII art animations.
 
