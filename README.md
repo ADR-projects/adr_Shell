@@ -17,8 +17,7 @@ weather, system info, task management, and ASCII art animations.
 ### Screenshots
 
 * **adrShell Interface**
-  ![shell screenshot](public/shellss.png)
-
+<img src="public/shellss.png" height="630" width="530"/>
 * **ASCII Donut**
   ![donut](public/donut.png)
 
