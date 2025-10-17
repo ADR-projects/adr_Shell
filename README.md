@@ -16,13 +16,15 @@ weather, system info, task management, and ASCII art animations.
 
 ### Screenshots
 
-* **adrShell Interface**
+* **Interface**
 <img src="public/shellss.png" height="630" width="530"/>
+
 * **ASCII Donut**
 <img src="public/donut.png" height="630" width="530"/>
 
 * **Weather in a City**
 <img src="public/weathercity.png" height="630" width="530"/>
+
 ---
 
 ### Build Instructions
