@@ -1,7 +1,7 @@
 
 ## adrShell v1.0
 
-A lightweight **custom CLI wrapper for Windows**, built in C++.
+A lightweight **custom CLI wrapper for Windows** built in C++.
 It provides an interface with shortcuts for everyday commands like
 weather, system info, task management, and ASCII art animations.
 
@@ -45,7 +45,7 @@ g++ src/shell.cpp -o shell.exe
    * Press `Win + R`, type `sysdm.cpl`
    * Go to **Advanced > Environment Variables**
    * Edit **Path** → Add `C:/Tools/`
-4. Open a new CMD prompt and run:
+4. Now you can open a new CMD prompt and run:
 
    ```bash
    <name-of-exe>
