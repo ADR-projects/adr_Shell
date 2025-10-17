@@ -19,10 +19,10 @@ weather, system info, task management, and ASCII art animations.
 * **adrShell Interface**
 <img src="public/shellss.png" height="630" width="530"/>
 * **ASCII Donut**
-  ![donut](public/donut.png)
+<img src="public/donut.png" height="630" width="530"/>
 
 * **Weather in a City**
-  ![weather](public/weathercity.png)
+<img src="public/weathercity.png" height="630" width="530"/>
 ---
 
 ### Build Instructions
