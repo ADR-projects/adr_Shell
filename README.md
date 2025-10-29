@@ -1,4 +1,3 @@
-
 ## adrShell v1.0
 
 A lightweight **custom CLI wrapper for Windows** built in C++.
